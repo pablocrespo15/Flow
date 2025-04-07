@@ -1,0 +1,59 @@
+header{
+     color: rgba(6, 57, 52, 0.479);
+     background-color: cyan;
+}
+nav {
+    background-color: #2b9dc0; 
+    padding: 10px;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+nav a {
+    color: #ffffff; 
+    text-decoration: none;
+    font-size: 18px;
+}
+
+body{
+    background-image: url(/fondop.jpeg);
+}
+h1{
+    font-size: 65px ;
+    text-align: center;
+}
+h2 {
+    color: rgb(44, 15, 213); font-size: 30px;
+}
+h3{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+a{
+    color: rgb(255, 255, 255);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+p{
+    font-size: 18px;
+    color: aliceblue;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px; 
+}
+.footeralign{
+    text-align: center;
+    font-size: 18px;
+    background-color: beige;
+    color: black;
+}
